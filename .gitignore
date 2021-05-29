@@ -9,6 +9,13 @@ __pycache__/
 demodata.pkl
 data.pkl
 
+data/
+demo.pkl
+demo_model_seq2seq.h5
+model_plot.png
+
+
+
 # Distribution / packaging
 .Python
 build/
