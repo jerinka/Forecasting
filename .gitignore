@@ -12,6 +12,9 @@ data.pkl
 data/
 demo.pkl
 demo_model_seq2seq.h5
+model_forecasting_seq2seq_attention.h5
+Forecasting_seq2seq.h5
+
 model_plot.png
 
 
